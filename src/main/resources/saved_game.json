@@ -1,0 +1,65 @@
+{
+    "cells": [
+      {
+        "option": "",
+        "cellHasPlayed": false,
+        "id": 0
+      },
+      {
+        "option": "",
+        "cellHasPlayed": false,
+        "id": 1
+      },
+      {
+        "option": "",
+        "cellHasPlayed": false,
+        "id": 2
+      },
+      {
+        "option": "",
+        "cellHasPlayed": false,
+        "id": 3
+      },
+      {
+        "option": "",
+        "cellHasPlayed": false,
+        "id": 4
+      },
+      {
+        "option": "",
+        "cellHasPlayed": false,
+        "id": 5
+      },
+      {
+        "option": "",
+        "cellHasPlayed": false,
+        "id": 6
+      },
+      {
+        "option": "",
+        "cellHasPlayed": false,
+        "id": 7
+      },
+      {
+        "option": "",
+        "cellHasPlayed": false,
+        "id": 8
+      }
+    ],
+    "lastPlayed": {
+      "option": "",
+      "cellHasPlayed": false,
+      "id": -1
+    },
+    "turnsPlayed": 0,
+    "turns": [
+      {
+        "option": "",
+        "cellHasPlayed": false,
+        "id": -1
+      }
+    ],
+    "hasPlayed": false,
+    "winner": "",
+    "tieGame": false
+  }
